@@ -1,0 +1,60 @@
+.secondline{
+	font-family: 'roboto';
+	border: bold; 
+	margin: 14px;
+	color: ghostwhite;
+}
+.thirdline{
+	font-family: 'roboto';
+	background-color: red;
+	border: bold;
+	border-radius:5vh;
+	color:ghostwhite;
+}
+.thor2{
+	font-family: 'roboto';
+	border: bold;
+	color: ghostwhite; 
+}
+.thor2para{
+	font-family: 'roboto';
+	background-color:lightblue;
+	border: bold;
+	border-radius:5vh;
+}
+.hulk3{
+	font-family: 'roboto';
+	border: bold; 
+	color:ghostwhite;
+}
+.hulk3para{
+	font-family: 'roboto';
+	background-color: lightgreen;
+	border: bold;
+	border-radius:5vh;
+}
+.cap4{
+	font-family: 'roboto';
+	border: bold;
+	color: ghostwhite; 
+}
+.cap4para{
+	font-family: 'roboto';
+	background-color: blue;
+	border: bold;
+	border-radius:5vh;
+}
+.bgmi{
+	background-image: url(https://images.unsplash.com/photo-1537147347432-676815edd56c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80w);
+	padding-bottom:25px;
+}
+.firstline{
+	font-family: 'roboto';
+	border: bold;
+	color: ghostwhite;
+}
+.tab11{
+	font-family: 'roboto';
+	border: bold;
+	color: ghostwhite;
+}
